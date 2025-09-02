@@ -1,7 +1,7 @@
 # Processador Assíncrono de Arquivos .TXT (.NET 8)
 
 Este projeto é uma aplicação **Console em C# (.NET 8)** desenvolvida
-para a disciplina C-SHARP SOFTWARE DEVELOPMENT. O sistema permite selecionar arquivos
+para a disciplina `C-SHARP SOFTWARE DEVELOPMENT`. O sistema permite selecionar arquivos
 `.txt` de uma pasta e, de forma **assíncrona e paralela**, processar
 cada um, contando o número de **linhas** e **palavras**.
 
@@ -66,7 +66,7 @@ Formato de cada linha:
 ## 👨‍💻 Autor
 
 Projeto desenvolvido por: 
-**Natan Eguchi dos Santos** - **RM98720**
-**Kayky Paschoal Ribeiro** - **RM99929**
-**João Pedro Marques Rodrigues** - **RM98307**
+**Natan Eguchi dos Santos** - **RM98720** </br>
+**Kayky Paschoal Ribeiro** - **RM99929** </br>
+**João Pedro Marques Rodrigues** - **RM98307** </br>
 
