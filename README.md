@@ -65,7 +65,7 @@ Formato de cada linha:
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por: 
+Projeto desenvolvido por: </br>
 **Natan Eguchi dos Santos** - **RM98720** </br>
 **Kayky Paschoal Ribeiro** - **RM99929** </br>
 **João Pedro Marques Rodrigues** - **RM98307** </br>
