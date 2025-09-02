@@ -1,0 +1,14 @@
+C:\Users\Natan\source\repos\Checkpoint01\bin\Debug\net8.0\Checkpoint01.exe
+C:\Users\Natan\source\repos\Checkpoint01\bin\Debug\net8.0\Checkpoint01.deps.json
+C:\Users\Natan\source\repos\Checkpoint01\bin\Debug\net8.0\Checkpoint01.runtimeconfig.json
+C:\Users\Natan\source\repos\Checkpoint01\bin\Debug\net8.0\Checkpoint01.dll
+C:\Users\Natan\source\repos\Checkpoint01\bin\Debug\net8.0\Checkpoint01.pdb
+C:\Users\Natan\source\repos\Checkpoint01\obj\Debug\net8.0\Checkpoint01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natan\source\repos\Checkpoint01\obj\Debug\net8.0\Checkpoint01.AssemblyInfoInputs.cache
+C:\Users\Natan\source\repos\Checkpoint01\obj\Debug\net8.0\Checkpoint01.AssemblyInfo.cs
+C:\Users\Natan\source\repos\Checkpoint01\obj\Debug\net8.0\Checkpoint01.csproj.CoreCompileInputs.cache
+C:\Users\Natan\source\repos\Checkpoint01\obj\Debug\net8.0\Checkpoint01.dll
+C:\Users\Natan\source\repos\Checkpoint01\obj\Debug\net8.0\refint\Checkpoint01.dll
+C:\Users\Natan\source\repos\Checkpoint01\obj\Debug\net8.0\Checkpoint01.pdb
+C:\Users\Natan\source\repos\Checkpoint01\obj\Debug\net8.0\Checkpoint01.genruntimeconfig.cache
+C:\Users\Natan\source\repos\Checkpoint01\obj\Debug\net8.0\ref\Checkpoint01.dll
